@@ -9669,11 +9669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hoaibao\\DuAnSepTin\\eShop\\eShop\\eShop.csproj",
+      "projectUniqueName": "D:\\hoaibao\\DuAN\\GitDBFist\\eShop\\eShop\\eShop.csproj",
       "projectName": "eShop",
-      "projectPath": "D:\\hoaibao\\DuAnSepTin\\eShop\\eShop\\eShop.csproj",
+      "projectPath": "D:\\hoaibao\\DuAN\\GitDBFist\\eShop\\eShop\\eShop.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\hoaibao\\DuAnSepTin\\eShop\\eShop\\obj\\",
+      "outputPath": "D:\\hoaibao\\DuAN\\GitDBFist\\eShop\\eShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

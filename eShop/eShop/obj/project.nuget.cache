@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D8iDJyMmcimTINqRoNJV3ur/TA5lwifqfG+ZJHI376OFYgB/+jmexghmjd6hMKVF2xMhEz/gxs2s1Ja2L6bxpw==",
+  "dgSpecHash": "9rjAXaGaXg2oX9TQIic22B1oHmmTNCd/4geGaYQSnx1TJrAtNqV/uPHU9Qs/LdWaYI8cudOL/LHgRkVYOFllDw==",
   "success": true,
-  "projectFilePath": "D:\\hoaibao\\DuAnSepTin\\eShop\\eShop\\eShop.csproj",
+  "projectFilePath": "D:\\hoaibao\\DuAN\\GitDBFist\\eShop\\eShop\\eShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
